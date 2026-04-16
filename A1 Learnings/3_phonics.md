@@ -40,7 +40,7 @@ See [G Rules Image](#g-rules).
 
 <div id="g-rules"></div>
 
-![Spanish G Rules](Spanish%20G%20Rules.png)
+![Spanish G Rules](images/Spanish%20G%20Rules.png)
 
 
 ### H (hache)
@@ -156,7 +156,7 @@ These marks are used for two main reasons:
 
 ## Digraphs
 
-![The 5 Spanish Digraphs](<The%205%20Spanish%20Digraphs.jpg>)
+![The 5 Spanish Digraphs](<images/The%205%20Spanish%20Digraphs.jpg>)
 
 ### CH (che/ce hache)
 When H follows the letter C, it forms a **digraph** (two letters making one sound). 
@@ -176,7 +176,7 @@ This combination can be followed by any vowel.
     Cuota (Quota/Fee)  — kwo-tah
     Cuna (Cradle)      — koo-nah
 
-![QU vs CU](<QU%20vs%20CU.png>)
+![QU vs CU](<images/QU%20vs%20CU.png>)
 
 ### GU (ge u)
 Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E** or **I**. This keeps the G sounding "hard" (like "Go") instead of "soft" **(like an H/J)**.
@@ -195,7 +195,7 @@ Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E
 See [R (erre)](#r-erre).
 
 ### QU (cu)
-When **Q** is used, it is always followed by a silent **U**. This combination only appears before the letters E or I to create a hard **K** sound. See [QU vs CU](<QU%20vs%20CU.png>).
+When **Q** is used, it is always followed by a silent **U**. This combination only appears before the letters E or I to create a hard **K** sound. See [QU vs CU](<images/QU%20vs%20CU.png>).
 
     Queso (Cheese)   — keh-soh
     Querer (To want) — keh-rehr
