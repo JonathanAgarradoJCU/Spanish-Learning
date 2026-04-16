@@ -4,7 +4,7 @@
 
 ## Consonants
 
-### C
+### C (ce)
 
 #### C followed by A/O/U
 As long as **C** is followed by the letter A, O, or U, it will sound like a **K**.
@@ -19,7 +19,9 @@ If **C** is followed by the letter E or I, it will sound like a light **TH** (pr
     Cerdo (Pig/Pork) — Sehr-doh
     Cine (Cinema/Movie theater) — See-neh
 
-### G followed by E/I
+### G (ge)
+
+#### G followed by E/I
 When **G** is **followed by E** or **I**, it makes a **"breathy" H sound**
  (technically the Spanish Jota sound).
 
@@ -27,6 +29,14 @@ When **G** is **followed by E** or **I**, it makes a **"breathy" H sound**
     Gigante (Giant)   — hee-gan-teh
     Gimnasio (Gym)    — heem-nah-syoh
     Gerente (Manager) — heh-ren-teh
+
+#### G followed by A/O/U (Sounded U)
+When G is followed by A, O, or U (without the silent digraph setup), the U is pronounced normally.
+See [G Rules Image](#g-rules).
+
+    Guante (Glove)    — gwan-teh
+    Agua (Water)      — ah-gwah
+    Antiguo (Ancient) — ahn-tee-gwoh
 
 <div id="g-rules"></div>
 
@@ -146,6 +156,8 @@ These marks are used for two main reasons:
 
 ## Digraphs
 
+![The 5 Spanish Digraphs](<The%205%20Spanish%20Digraphs.jpg>)
+
 ### CH (che/ce hache)
 When H follows the letter C, it forms a **digraph** (two letters making one sound). 
 
@@ -164,6 +176,8 @@ This combination can be followed by any vowel.
     Cuota (Quota/Fee)  — kwo-tah
     Cuna (Cradle)      — koo-nah
 
+![QU vs CU](<QU%20vs%20CU.png>)
+
 ### GU (ge u)
 Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E** or **I**. This keeps the G sounding "hard" (like "Go") instead of "soft" **(like an H/J)**.
 
@@ -171,14 +185,6 @@ Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E
     Guitarra (Guitar) — gee-tah-rrah
     Guía (Guide)      — gee-ah
     Juguete (Toy)     — hoo-geh-teh
-
-#### G followed by A/O/U (Sounded U)
-When G is followed by A, O, or U (without the silent digraph setup), the U is pronounced normally.
-See [G Rules Image](#g-rules).
-
-    Guante (Glove)    — gwan-teh
-    Agua (Water)      — ah-gwah
-    Antiguo (Ancient) — ahn-tee-gwoh
 
 ### LL (elle/doble ele)
 
@@ -189,10 +195,11 @@ See [G Rules Image](#g-rules).
 See [R (erre)](#r-erre).
 
 ### QU (cu)
-When **Q** is used, it is always followed by a silent **U**. This combination only appears before the letters E or I to create a hard **K** sound.
+When **Q** is used, it is always followed by a silent **U**. This combination only appears before the letters E or I to create a hard **K** sound. See [QU vs CU](<QU%20vs%20CU.png>).
 
     Queso (Cheese)   — keh-soh
     Querer (To want) — keh-rehr
     Quien (Who)      — kyen
     Quince (Fifteen) — keen-seh
     Esquina (Corner) — es-kee-nah
+
