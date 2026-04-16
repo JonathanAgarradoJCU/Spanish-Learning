@@ -2,22 +2,22 @@
 
     Robar = rroh-bahr (rolled R)
     Cerca = sehr-kah
-    Esquiar = ehs-kwee-ahr
+    Esquiar = ehs-kwee-ahr          X
     Piña = pee-nyah
     Gordo = gohr-doh
     Elegir = eh-leh-heer
 
     Correr = koh-rrer (rolled R)
     Calle = kah-yeh
-    Reacción = ree-ahk-SYON
+    Reacción = ree-ahk-SYON         X
     Águila = AH-ghee-lah
     Apagar = ah-pah-gahr
     Cuadrado = kwah-drah-doh
 
-    Esfinge = ehs-fihn-heh
+    Esfinge = ehs-fihn-heh          X
     Charco = chahr-koh
     Cinco = sihn-koh
-    Jardín = zhar-DEEN
+    Jardín = zhar-DEEN              X
     Hoguera = oh-geh-rah
 
     Arder = ahr-dehr
@@ -27,6 +27,17 @@
     Pequeño = peh-ken-yoh
 
 ## 19 out of 22!
+
+
+### Acceptable but Northern Spanish would sound more:
+    
+    Cerca
+        thehr-kah
+
+    
+
+    
+
 
 ### Need to work on:
 
@@ -48,4 +59,3 @@ New Guide: Reacción — reh-ahk-SYON.
 Correction: In Esfinge, you wrote ehs-fihn-heh.
 The Fix: Spanish I always sounds like the "ee" in bee.
 New Guide: Esfinge — es-FEEN-heh.
-
