@@ -49,7 +49,6 @@ The little squiggle on top is called a tilde (_virgulilla_). It is a separate le
     Baño (Bathroom)           — bah-nyoh
     Cumpleaños (Birthday)     — koom-pleh-ah-nyohs
 
-
 ### R (erre)
 #### Initial 'R' = Rolled/Trilled R
 
@@ -106,7 +105,6 @@ The two dots turn that "u" into a "w" sound.
     Vergüenza (shame/embarrassment) — ber-gwen-thah/sah
     Bilingüe (bilingual)            — bee-leen-gweh
 
-
 ### **The Rules for á, é, í, ó, ú**
 
 These marks are used for two main reasons:
@@ -133,7 +131,6 @@ When H follows the letter C, it forms a **digraph** (two letters making one soun
     Chico (Boy)           — chee-ko
     Noche (Night)         — no-che
     Mucho (A lot/Much)    — moo-cho
-
 
 ### LL (elle/doble ele)
 
