@@ -1,0 +1,29 @@
+# Spanish alphabet
+
+a             = ah                              \
+b             = beh                             \
+c             = theh                            \
+d             = deh                             \
+e             = eh                              \
+f             = eh-feh                          \
+g             = heh                             \
+h             = ah-cheh                         \
+i             = ee                              \
+j             = ho-tah                          \
+k             = kah                             \   
+l             = eh-leh                          \
+m             = eh-meh                          \
+n             = eh-neh                          \
+ñ (eñe)       = eh-nyeh                         \
+o             = oh                              \
+p             = peh                             \
+q             = koo                             \
+r             = eh-ereh                         \
+s             = eh-seh                          \
+t             = teh                             \
+u             = ooh                             \
+v             = ooh-veh       (soft v sound)    \
+w (uve doble) = ooh-veh doble (soft v sound)    \
+x (equis)     = eh-kis                          \
+y (igriega)   = ee-gree-eh-gah                  \
+z (zeta)      = theh-tah                        \
