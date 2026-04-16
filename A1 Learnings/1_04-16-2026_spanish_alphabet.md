@@ -1,4 +1,4 @@
-# Spanish alphabet
+# Spanish Alphabet
 
 a             = ah  
 b             = beh     
