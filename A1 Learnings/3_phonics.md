@@ -4,6 +4,13 @@
 
 ## Consonants
 
+### C
+As long as **C** is followed by the letter A, O, or U, it will sound like a **K**.
+
+    Casa (Home)   — kah-sah
+    Barco (Ship)  — bar-koh
+    Cuna (Cradle) — koo-nah
+
 ### H (hache)
 It has no sound of its own, whether it is at the **beginning** or in the **middle** of a word. Only exception is when it is paired with C, making "ch".
 
