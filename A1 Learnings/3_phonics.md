@@ -5,11 +5,19 @@
 ## Consonants
 
 ### C
+
+#### C followed by A/O/U
 As long as **C** is followed by the letter A, O, or U, it will sound like a **K**.
 
     Casa (Home)   — kah-sah
     Barco (Ship)  — bar-koh
     Cuna (Cradle) — koo-nah
+
+#### C followed by E/I
+If **C** is followed by the letter E or I, it will sound like a light **TH** (pronouncing it like an S is acceptable, especially in some other Spanish-speaking countries).
+
+    Cerdo (Pig/Pork) — Sehr-doh
+    Cine (Cinema/Movie theater) — See-neh
 
 ### H (hache)
 It has no sound of its own, whether it is at the **beginning** or in the **middle** of a word. Only exception is when it is paired with C, making "ch".
@@ -132,6 +140,31 @@ When H follows the letter C, it forms a **digraph** (two letters making one soun
     Noche (Night)         — no-che
     Mucho (A lot/Much)    — moo-cho
 
+### CU (cu u)
+Unlike the silent "u" in _qu_ (See [QU](#qu-cu)), the U in CU is always pronounced, sounding like a W (kw).      
+This combination can be followed by any vowel.
+
+    Cuando (When)      — kwan-doh
+    Cuerpo (Body)      — kwer-poh
+    Cuidado (Care)     — kwee-dah-doh
+    Cuota (Quota/Fee)  — kwo-tah
+    Cuna (Cradle)      — koo-nah
+
+### GU (ge u)
+Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E** or **I**. This keeps the G sounding "hard" (like "Go") instead of "soft" (like an H/J).
+
+    Guerra (War)      — geh-rrah
+    Guitarra (Guitar) — gee-tah-rrah
+    Guía (Guide)      — gee-ah
+    Juguete (Toy)     — hoo-geh-teh
+
+#### G followed by A/O/U (Sounded U)
+When G is followed by A, O, or U (without the silent digraph setup), the U is pronounced normally.
+
+    Guante (Glove)    — gwan-teh
+    Agua (Water)      — ah-gwah
+    Antiguo (Ancient) — ahn-tee-gwoh
+
 ### LL (elle/doble ele)
 
     Calle (Street) — cah-yeh
@@ -140,8 +173,11 @@ When H follows the letter C, it forms a **digraph** (two letters making one soun
 ### RR (ell e/doble ele)
 See [R (erre)](#r-erre).
 
-### GU (ge u)
---
+### QU (cu)
+When **Q** is used, it is always followed by a silent **U**. This combination only appears before the letters E or I to create a hard **K** sound.
 
-### CU (cu u)
---
+    Queso (Cheese)   — keh-soh
+    Querer (To want) — keh-rehr
+    Quien (Who)      — kyen
+    Quince (Fifteen) — keen-seh
+    Esquina (Corner) — es-kee-nah
