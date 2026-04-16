@@ -134,7 +134,7 @@ When H follows the letter C, it forms a **digraph** (two letters making one soun
     Lluvia         — yu-vyah  
 
 ### RR (ell e/doble ele)
-See [R (erre)](#-R-(erre)).
+See [R (erre)](#r-erre).
 
 ### GU (ge u)
 --
