@@ -10,7 +10,7 @@ When H follows the letter C, it forms a **digraph** (two letters making one soun
     Noche (Night)         — no-che
     Mucho (A lot/Much)    — moo-cho
 
-## H
+## H (hache)
 It has no sound of its own, whether it is at the **beginning** or in the **middle** of a word. Only exception is when it is paired with C, making "ch".
 
 ### Initial 'H'
@@ -38,7 +38,7 @@ It has no sound of its own, whether it is at the **beginning** or in the **middl
     Ojo (Eye) — o-ho
     Reloj (Clock/Watch) — re-loh
 
-## R
+## R (erre)
 ### Initial 'R' = Rolled/Trilled R
 
     Rojo (Red)            — rroh-hoh
