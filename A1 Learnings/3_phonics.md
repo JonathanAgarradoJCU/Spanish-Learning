@@ -19,6 +19,17 @@ If **C** is followed by the letter E or I, it will sound like a light **TH** (pr
     Cerdo (Pig/Pork) — Sehr-doh
     Cine (Cinema/Movie theater) — See-neh
 
+### G followed by E/I
+When **G** is **followed by E** or **I**, it makes a **"breathy" H sound**
+ (technically the Spanish Jota sound).
+
+    Gente (People)    — hen-teh
+    Gigante (Giant)   — hee-gan-teh
+    Gimnasio (Gym)    — heem-nah-syoh
+    Gerente (Manager) — heh-ren-teh
+
+![Spanish G Rules](Spanish_G_Rules.png)
+
 ### H (hache)
 It has no sound of its own, whether it is at the **beginning** or in the **middle** of a word. Only exception is when it is paired with C, making "ch".
 
@@ -151,7 +162,7 @@ This combination can be followed by any vowel.
     Cuna (Cradle)      — koo-nah
 
 ### GU (ge u)
-Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E** or **I**. This keeps the G sounding "hard" (like "Go") instead of "soft" (like an H/J).
+Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E** or **I**. This keeps the G sounding "hard" (like "Go") instead of "soft" **(like an H/J)**.
 
     Guerra (War)      — geh-rrah
     Guitarra (Guitar) — gee-tah-rrah
@@ -160,6 +171,8 @@ Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E
 
 #### G followed by A/O/U (Sounded U)
 When G is followed by A, O, or U (without the silent digraph setup), the U is pronounced normally.
+
+[Spanish G Rules](Spanish_G_Rules.png)
 
     Guante (Glove)    — gwan-teh
     Agua (Water)      — ah-gwah
