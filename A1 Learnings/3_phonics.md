@@ -190,7 +190,7 @@ Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E
     Calle (Street) — cah-yeh
     Lluvia         — yu-vyah  
 
-### RR (ell e/doble ele)
+### RR (doble erre)
 See [R (erre)](#r-erre).
 
 ### QU (cu)
