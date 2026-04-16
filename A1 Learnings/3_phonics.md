@@ -28,7 +28,10 @@ When **G** is **followed by E** or **I**, it makes a **"breathy" H sound**
     Gimnasio (Gym)    — heem-nah-syoh
     Gerente (Manager) — heh-ren-teh
 
-![Spanish G Rules](Spanish_G_Rules.png)
+<div id="g-rules"></div>
+
+![Spanish G Rules](Spanish%20G%20Rules.png)
+
 
 ### H (hache)
 It has no sound of its own, whether it is at the **beginning** or in the **middle** of a word. Only exception is when it is paired with C, making "ch".
@@ -171,8 +174,7 @@ Just like the [QU](#qu-cu) digraph, the **U is silent** when it comes **before E
 
 #### G followed by A/O/U (Sounded U)
 When G is followed by A, O, or U (without the silent digraph setup), the U is pronounced normally.
-
-[Spanish G Rules](Spanish_G_Rules.png)
+See [G Rules Image](#g-rules).
 
     Guante (Glove)    — gwan-teh
     Agua (Water)      — ah-gwah
