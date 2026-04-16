@@ -2,6 +2,13 @@
 
 # Phonics
 
+## CH
+
+    Chocolate (Chocolate) — (cho-ko-la-te)
+    Chico (Boy)           — (chee-ko)
+    Noche (Night)         — (no-che)
+    Mucho (A lot/Much)    — (moo-cho)
+
 ## H
 
 ### Initial 'H'
@@ -18,13 +25,6 @@
     Almohada (Pillow)  — (al-mo-a-da)
     Zanahoria (Carrot) — (sa-na-o-ria)
     Vehículo (Vehicle) — (ve-ee-ku-lo)
-
-### Exception: The "ch" Combo
-
-    Chocolate (Chocolate) — (cho-ko-la-te)
-    Chico (Boy)           — (chee-ko)
-    Noche (Night)         — (no-che)
-    Mucho (A lot/Much)    — (moo-cho)
 
 ## R
 ### Initial 'R' = Rolled/Trilled R
