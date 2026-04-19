@@ -1,5 +1,6 @@
 # Quieto Estaré / I Will Be Still
 
+## Verse 1
 #### Escóndeme en tus alas, Señor
     Hide me in your wings, Lord
 
@@ -14,6 +15,7 @@
 
 ---
 
+## Chorus
 #### Padre eres rey sobre el mar
     Father, you are king over the sea
 
@@ -28,6 +30,7 @@
 
 ---
 
+## Verse 2
 #### Descansaré en ti, mi Dios
     I will rest in you, my God
 
@@ -42,6 +45,7 @@
 
 ---
 
+## Chorus
 #### Padre eres rey sobre el mar
     Father, you are king over the sea
 
@@ -53,3 +57,4 @@
 
 #### Sé que eres Dios
     I know you are God
+    
